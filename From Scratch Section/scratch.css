@@ -1,0 +1,39 @@
+
+body {
+    background-color: #f6f6f6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.brief {
+    text-align: center;
+    color: #222;
+}
+.emphasis {
+    font-style: italic;
+}
+.tabbed {
+    padding-left: 50px;
+}
+.blue {
+    color: blue;
+}
+.index {
+    text-align: right;
+    border: #222;
+}
+.cbc {
+    background-color: blue;
+    padding-left: 150px;
+}
+.ci {
+    background-image: url("/IS201/From\ Scratch\ Section/rainbow.jpg");
+}
+.block1 {
+    z-index: 1; position: absolute; bottom: 200px; background-color: black; width: 250px; height: 70px; padding-right: 300px; border: solid 20px; border-color: greenyellow;
+}
+.block2 {
+    z-index: 2; position: absolute; top: 4810px; left: 190px; background-color: blue; width: 150px; height: 40px; padding-right: 300px; border: solid 5px; border-color: orange;
+}
+.block3 {
+    block3" style="z-index: 0; position: absolute; top: 4780px; left: 585px; background-color: orangered; width: 50px; height: 50px; border: solid 5px; border-color: red;
+}
